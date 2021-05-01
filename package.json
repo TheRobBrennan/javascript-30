@@ -1,0 +1,16 @@
+{
+  "name": "javascript-30",
+  "version": "0.0.0",
+  "description": "This repo contains my notes and experimentation based upon Wes Bos' [JavaScript 30](https://javascript30.com) - a thirty (30) day challenge writing in plain JavaScript.",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/javascript-30.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/javascript-30/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/javascript-30#readme"
+}
